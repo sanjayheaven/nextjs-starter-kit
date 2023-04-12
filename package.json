@@ -12,7 +12,8 @@
     "lint:fix": "eslint . --fix",
     "prettier": "prettier --check ./src ",
     "prettier:fix": "prettier --write ./src",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "release": "release-it"
   },
   "dependencies": {
     "@chakra-ui/react": "^2.5.5",
@@ -39,6 +40,7 @@
   "devDependencies": {
     "@commitlint/cli": "^17.4.4",
     "@commitlint/config-conventional": "^17.4.4",
+    "@release-it/conventional-changelog": "^5.1.1",
     "@types/nprogress": "^0.2.0",
     "@typescript-eslint/eslint-plugin": "^5.54.0",
     "@typescript-eslint/parser": "^5.54.0",
@@ -55,6 +57,7 @@
     "lint-staged": "^13.2.1",
     "postcss": "^8.4.21",
     "prettier": "^2.8.4",
+    "release-it": "^15.10.1",
     "tailwindcss": "^3.2.7"
   },
   "lint-staged": {
