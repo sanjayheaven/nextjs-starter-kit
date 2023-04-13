@@ -13,17 +13,17 @@
 
 ## 功能
 
-- 使用 [Next.js](https://nextjs.org/) 构建高性能网络应用程序
-- 集成 [TypeScript](https://www.typescriptlang.org/)，实现类型检查并提高代码可靠性
-- 预配置 [Tailwind CSS](https://tailwindcss.com/)，一个实用型的 CSS 框架，用于简化样式开发。
-- 包含 [ESLint](https://eslint.org/) 和 [Prettier](https://prettier.io/) 配置，以确保代码质量和风格的一致性
-- 使用 [Chakra UI](https://chakra-ui.com/) 作为现代且可定制的组件库
-- 提供 [Next SEO](https://github.com/garmeeh/next-seo) 以便管理 SEO 元数据
-- 使用 [next-sitemap](https://github.com/iamvishnusankar/next-sitemap) 生成站点地图，以便更好地索引搜索引擎
-- 集成 [lint-staged](https://github.com/okonet/lint-staged)，仅在 Git 暂存文件上运行 Linter
-- 包含 [Framer Motion](https://www.framer.com/motion/)，用于创建动画和交互式 UI
-- 提供 [next-i18next](https://github.com/isaachinman/next-i18next) 以便支持轻松本地化
-- 包括 [commitlint](https://commitlint.js.org/#/) 和 [release-it](https://github.com/release-it/release-it) 以便更好的版本控制和发布
+- 🚀 使用 [Next.js](https://nextjs.org/) 构建高性能网络应用程序
+- 🔍 集成 [TypeScript](https://www.typescriptlang.org/)，实现类型检查并提高代码可靠性
+- 🎨 预配置 [Tailwind CSS](https://tailwindcss.com/)，一个实用型的 CSS 框架，用于简化样式开发。
+- 📏 包含 [ESLint](https://eslint.org/) 和 [Prettier](https://prettier.io/) 配置，以确保代码质量和风格的一致性
+- 💅 使用 [Chakra UI](https://chakra-ui.com/) 作为现代且可定制的组件库
+- 📈 提供 [Next SEO](https://github.com/garmeeh/next-seo) 以便管理 SEO 元数据
+- 🗺️ 使用 [next-sitemap](https://github.com/iamvishnusankar/next-sitemap) 生成站点地图，以便更好地索引搜索引擎
+- 🛡️ 集成 [lint-staged](https://github.com/okonet/lint-staged)，仅在 Git 暂存文件上运行 Linter
+- 🎬 包含 [Framer Motion](https://www.framer.com/motion/)，用于创建动画和交互式 UI
+- 🌐 提供 [next-i18next](https://github.com/isaachinman/next-i18next) 以便支持轻松本地化
+- 📦 包括 [commitlint](https://commitlint.js.org/#/) 和 [release-it](https://github.com/release-it/release-it) 以便更好的版本控制和发布
 
 ## 安装
 
