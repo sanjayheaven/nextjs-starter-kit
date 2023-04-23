@@ -27,6 +27,7 @@ module.exports = {
     },
   },
   rules: {
+    "@typescript-eslint/consistent-type-imports": "error", // @typescript-eslint/eslint-plugin
     "simple-import-sort/imports": "error", // eslint-plugin-simple-import-sort
     "simple-import-sort/exports": "error", // eslint-plugin-simple-import-sort
     "react-hooks/rules-of-hooks": "error", // eslint-plugin-react-hooks
